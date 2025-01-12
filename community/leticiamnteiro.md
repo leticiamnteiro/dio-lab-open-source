@@ -11,18 +11,10 @@ Me chamo Letícia Monteiro, sou estudante de Engenharia de Software na Unicesuma
 
 ## Conhecimento básico
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/pt-BR/)
 ![C](https://skillicons.dev/icons?i=c)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
-
-## Interesse
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
-[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org)
-[![Rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org/)
-[![Elixir](https://skillicons.dev/icons?i=elixir)](https://elixir-lang.org/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiamnteiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
